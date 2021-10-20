@@ -1,0 +1,11 @@
+form {
+    width: 200px;
+    height: auto;
+    border-radius: 30px;
+    text-align: center;
+}
+
+label {
+    color: darkred;
+    font-weight: bold;
+}

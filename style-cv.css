@@ -1,0 +1,64 @@
+h1, h2 {
+    background-color: darkred;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+h1 {
+    border-radius: 10px;
+}
+
+h3 {
+    font-family: cursive;
+}
+
+span {
+    font-weight: bold;
+    font-family: Serif, cursive;
+}
+
+img {
+    position: relative;
+    width: 300px;
+    height: auto;
+    margin-left: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+#left {
+    background-color: darkred;
+    color: blanchedalmond;
+    display: inline-block;
+    float: left;
+    border: black double 5px;
+    width: 25%;
+    height:790px;
+    box-shadow: gray 10px 10px 10px 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#corps {
+    display: inline-block;
+    float: right;
+    border: black double 5px;
+    width: 70%;
+    box-shadow: gray 0px 0px 5px 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+}
+
+#langue {
+    font-weight: bold;
+}
